@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/doe/mlruns/0/05ecbb3fa39d49a0b29baff2c2860d18/artifacts
+end_time: 1626646456679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 05ecbb3fa39d49a0b29baff2c2860d18
+run_uuid: 05ecbb3fa39d49a0b29baff2c2860d18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1626646456661
+status: 3
+tags: []
+user_id: Hp

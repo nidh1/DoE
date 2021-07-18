@@ -1,0 +1,17 @@
+name:tutorial
+channels:
+ -defaults
+dependencies:
+ -pip:
+  -os
+  -numpy
+  -mlflow
+  -pandas
+  -sklearn
+  -matplotlib
+  -seaborn
+  -plotly
+  -pydoe
+  -diversipy
+  -doepy
+  -nbconvert
